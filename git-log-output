@@ -1,0 +1,31 @@
+commit 5a9d7ba8950d1005b12291d807a67675bf1fc55e
+Author: rayk101 <rkhan247@outlook.com>
+Date:   Tue Feb 10 23:23:23 2026 -0500
+
+    Revert "add temporary file"
+    
+    This reverts commit eb54edbe96cf15b47ce31c0199cdb734e9d3a88c.
+
+commit eb54edbe96cf15b47ce31c0199cdb734e9d3a88c
+Author: rayk101 <rkhan247@outlook.com>
+Date:   Tue Feb 10 23:17:54 2026 -0500
+
+    add temporary file
+
+commit efa166c7cf533f58eec31317f9d9609c9e28bd25
+Author: rayk101 <rkhan247@outlook.com>
+Date:   Tue Feb 10 23:17:28 2026 -0500
+
+    updated hostname file
+
+commit ad560c3bca0d305fcac6eb3cde70026767fb0530
+Author: rayk101 <rkhan247@outlook.com>
+Date:   Tue Feb 10 22:49:58 2026 -0500
+
+    added test message to os-release
+
+commit 5ed2fe010e5df4d87c795c927b5b02edcd6ed49e
+Author: rayk101 <rkhan247@outlook.com>
+Date:   Tue Feb 10 22:47:01 2026 -0500
+
+    Inital commit of copied files
